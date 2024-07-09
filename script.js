@@ -5,8 +5,8 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
-    {
-        enunciado: "Ai você esta saindo da sua escola, escutando uma música, e teve a brilhante ideia de compor, com um ritmo parecido, mas voçê esta inseguro do que pode acontcer! Oque iria fazer?"
+    { [
+        enunciado: "Ai você esta saindo da sua escola, escutando uma música, e teve a brilhante ideia de compor, com um ritmo parecido, mas voçê esta inseguro do que pode acontcer, que iria fazer?",
             {
                 texto: "Não iria ligar para oque falam, ia fazer acontcer ;)",
                 afirmacao: "afirmação"
